@@ -1,8 +1,8 @@
 {
-  "name": "gulp-boilerplate",
+  "name": "kickstarter-landing-page",
   "version": "1.0.0",
-  "description": "Frontend boilerplate based on gulp",
-  "main": "index.js",
+  "description": "Frontend Kickstarter landing page",
+  "main": "src/scripts/main.js",
   "scripts": {
     "init": "mate-scripts init",
     "start": "mate-scripts start",
@@ -15,7 +15,7 @@
     "test": "npm run lint && npm run test:only"
   },
   "keywords": [],
-  "author": "Mate Academy",
+  "author": "maxbovtun@gmail.com",
   "license": "GPL-3.0",
   "devDependencies": {
     "@linthtml/linthtml": "^0.8.3",
